@@ -1,0 +1,25 @@
+2014-12-05 12:44:48 Lets get started
+2014-12-05 12:44:48 daughter Anna, son Rob,  has arrived to the right bank
+2014-12-05 12:44:48 daughter Anna,  has arrived to the left bank
+2014-12-05 12:44:48 son Rob1, son Rob2,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob,  has arrived to the left bank
+2014-12-05 12:44:48 son Rob3, daughter Anna,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob1,  has arrived to the left bank
+2014-12-05 12:44:48 son Rob, son Rob1,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob2,  has arrived to the left bank
+2014-12-05 12:44:48 Papa,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob3,  has arrived to the left bank
+2014-12-05 12:44:48 son Rob2, son Rob3,  has arrived to the right bank
+2014-12-05 12:44:48 daughter Anna,  has arrived to the left bank
+2014-12-05 12:44:48 Mom,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob,  has arrived to the left bank
+2014-12-05 12:44:48 daughter Anna, son Rob,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob1,  has arrived to the left bank
+2014-12-05 12:44:48 Mom2,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob2,  has arrived to the left bank
+2014-12-05 12:44:48 son Rob1, son Rob2,  has arrived to the right bank
+2014-12-05 12:44:48 son Rob3,  has arrived to the left bank
+2014-12-05 12:44:48 Fisher,  has arrived to the right bank
+2014-12-05 12:44:48 daughter Anna,  has arrived to the left bank
+2014-12-05 12:44:48 son Rob3, daughter Anna,  has arrived to the right bank
+2014-12-05 12:44:48 The river has been crossed 23 times
